@@ -10,7 +10,7 @@ Yeoh Yee Teng
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://avatars.githubusercontent.com/u/93510308?v=4)
 
 <!-- Add your details -->
 
