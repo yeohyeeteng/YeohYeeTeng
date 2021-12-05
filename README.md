@@ -32,13 +32,13 @@ I am __Yee Teng__, I specialized in creative & structured problem solving, busin
 Data Analyst<br>
 Sep 2021 to Present
 
-Technical Skills
-• Microsoft Excel (VBA Macro, Analysis ToolPak)
-• SQL
-• Python (pandas, NumPy, Matplotlib, seaborn)
-• Power BI
-• Google Analytics
-• Machine Learning
+Technical Skills:
+- Microsoft Excel (VBA Macro, Analysis ToolPak)
+- SQL
+- Python (pandas, NumPy, Matplotlib, seaborn)
+- Power BI
+- Google Analytics
+- Machine Learning
 
 Business Skills
 • Business and Data Analysis
