@@ -1,5 +1,5 @@
 <!-- CONTACT Section Starts -->
-### CONTACT
+### PERSONAL INFORMATION
 
 <!-- Add your details -->
 __Yeoh Yee Teng__
@@ -57,11 +57,9 @@ Personal Skills
 - Leadership
 
 
-
 __UNICORN FINANCIAL SOLUTIONS PTE LTD__<br>
 FINANCIAL CONSULTANT (Plan Writing)<br>
 May 2016 to Aug 2021: 5 years 04 months
-
 
 
 __ERNI ASIA HOLDING PTE LTD__<br>
@@ -73,8 +71,10 @@ Jun 2012 to Apr 2016: 3 years 11 months
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+__Nanyang Technological University (2008 – 2012)__<br>
+Bachelor of Engineering (Mechanical Engineering)
+- 1st Class Honours (Cumulative GPA: 4.52/5.00)
+- Dean’s List for Academic Year 2010/2011
 
 <!-- EDUCATION Section Ends -->
 
