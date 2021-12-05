@@ -14,7 +14,7 @@ __Yeoh Yee Teng__
 
 <!-- Add your details -->
 
-I am __Yee Teng__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Yee Teng__, I specialized in creative & structured problem solving, business & data analysis, visualization, strategic planning, project management, Microsoft Excel, SQL, Python programming. I am also experienced in marketing, design, training.
 
 
 <!-- Add link to the sections -->
