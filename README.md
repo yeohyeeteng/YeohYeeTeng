@@ -28,8 +28,8 @@ I am __Yee Teng__, I specialized in creative & structured problem solving, busin
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### OPEN TO WORK
-Data Analyst<br>
+__OPEN TO WORK__<br>
+DATA ANALYST<br>
 Sep 2021 to Present
 
 Technical Skills:
@@ -56,14 +56,14 @@ Personal Skills
 - Teamwork
 - Leadership
 <br>
-
-##### UNICORN FINANCIAL SOLUTIONS PTE LTD
-Financial Consultant (Plan Writing)<br>
+<br>
+__UNICORN FINANCIAL SOLUTIONS PTE LTD__<br>
+FINANCIAL CONSULTANT (Plan Writing)<br>
 May 2016 to Aug 2021: 5 years 04 months
 <br>
-
-##### ERNI ASIA HOLDING PTE LTD
-Marketing Engineer<br>
+<br>
+__ERNI ASIA HOLDING PTE LTD__<br>
+MARKETING ENGINEER<br>
 Jun 2012 to Apr 2016: 3 years 11 months
 
 <!-- EXPERIENCE Section Ends -->
