@@ -1,9 +1,6 @@
 <!-- CONTACT Section Starts -->
-### PERSONAL INFORMATION
-
-<!-- Add your details -->
-__Yeoh Yee Teng__
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/yeohyeeteng/)
+### YEOH YEE TENG
+[LinkedIn](https://www.linkedin.com/in/yeohyeeteng/)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
@@ -90,7 +87,7 @@ LinkedIn Learning Path
 [Machine Learning](https://www.coursera.org/learn/machine-learning) (2020)<br>
 Coursera (Offered by Stanford University)
 
-### Business and Data Analysis
+### Business and Data Analytics Projects
 [Group Projects and Hackathon](https://drive.google.com/drive/folders/1VP1xmoH-K28Ajsi_4yUFUG28J5NW04bw?usp=sharing) (RISE by DigitalBCG Academy, Business and Data Analytics)<br>
 
 ### Professional Articles Writing
