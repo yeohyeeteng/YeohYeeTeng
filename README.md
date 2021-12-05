@@ -28,14 +28,41 @@ I am __Yee Teng__, I specialized in creative & structured problem solving, busin
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### OPEN TO WORK
+Data Analyst<br>
+Sep 2021 to Present
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+Technical Skills
+• Microsoft Excel (VBA Macro, Analysis ToolPak)
+• SQL
+• Python (pandas, NumPy, Matplotlib, seaborn)
+• Power BI
+• Google Analytics
+• Machine Learning
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+Business Skills
+• Business and Data Analysis
+• Visualization
+• Structured Problem Solving and Creative Solutions
+• Business Intelligence
+• Business Presentation
+• Project Management
+
+Personal Skills
+• Communication: English, Chinese, Malay, Hokkien, Cantonese (Basic French and Korean)
+• Time Management
+• Planning and Organization
+• Attention to Details
+• Teamwork
+• Leadership
+
+##### UNICORN FINANCIAL SOLUTIONS PTE LTD
+Financial Consultant (Plan Writing)<br>
+May 2016 to Aug 2021: 5 years 04 months
+
+##### ERNI ASIA HOLDING PTE LTD
+Marketing Engineer<br>
+Jun 2012 to Apr 2016: 3 years 11 months
 
 <!-- EXPERIENCE Section Ends -->
 
