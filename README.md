@@ -1,28 +1,33 @@
 <!-- CONTACT Section Starts -->
+
 ### YEOH YEE TENG
-[LinkedIn](https://www.linkedin.com/in/yeohyeeteng/) | [GitHub](https://yeohyeeteng.github.io/YeohYeeTeng/)
+[LinkedIn](https://www.linkedin.com/in/yeohyeeteng/) | [GitHub](https://yeohyeeteng.github.io/YeohYeeTeng/) <br>
+
 <!-- CONTACT Section Ends -->
 
-<!-- ABOUT Section Starts -->
-### ABOUT
-<!-- Add link to your picture -->
 
+
+<!-- ABOUT Section Starts -->
+
+### ABOUT
+
+<!-- Add link to your picture -->
 ![alt text](https://avatars.githubusercontent.com/u/93510308?v=4)
 
 <!-- Add your details -->
-
 I am __Yee Teng__, I specialized in creative & structured problem solving, business & data analysis, visualization, strategic planning, project management, Microsoft Excel, SQL, Python programming. I am also experienced in marketing, design, training.
 
-
 <!-- Add link to the sections -->
-[Experience](#experience) <br>
-[Education](#education) <br>
-[Featured](#featured) <br> 
+[Experience](#experience) | [Education](#education) | [Featured](#featured) <br> 
 
 <!-- ABOUT Section Ends -->
 
+
+
 <!-- EXPERIENCE Section Starts -->
+
 ## EXPERIENCE
+
 <!-- Add your details -->
 __OPEN TO WORK__<br>
 DATA ANALYST<br>
@@ -50,13 +55,11 @@ Personal Skills
 - Planning and Organization
 - Attention to Details
 - Teamwork
-- Leadership
-
+- Leadership <br>
 
 __UNICORN FINANCIAL SOLUTIONS PTE LTD__<br>
 FINANCIAL CONSULTANT (Plan Writing)<br>
-May 2016 to Aug 2021: 5 years 04 months
-
+May 2016 to Aug 2021: 5 years 04 months <br>
 
 __ERNI ASIA HOLDING PTE LTD__<br>
 MARKETING ENGINEER<br>
@@ -64,18 +67,26 @@ Jun 2012 to Apr 2016: 3 years 11 months
 
 <!-- EXPERIENCE Section Ends -->
 
+
+
 <!-- EDUCATION Section Starts -->
+
 ## EDUCATION
+
 <!-- Add your details -->
 __Nanyang Technological University (2008 – 2012)__<br>
 Bachelor of Engineering (Mechanical Engineering)
 - 1st Class Honours (Cumulative GPA: 4.52/5.00)
-- Dean’s List for Academic Year 2010/2011
+- Dean’s List for Academic Year 2010/2011 <br>
 
 <!-- EDUCATION Section Ends -->
 
+
+
 <!-- FEATURED Section Starts -->
+
 ## FEATURED
+
 <!-- Add your details -->
 ### Professional Certifications & Courses Attended
 [RISE by DigitalBCG Academy, Business and Data Analytics](https://rise.bcg.com/business-data-analytics/) (anticipated completion Jan 2022)<br>
@@ -85,7 +96,7 @@ RISE by DigitalBCG Academy
 LinkedIn Learning Path
 
 [Machine Learning](https://www.coursera.org/learn/machine-learning) (2020)<br>
-Coursera (Offered by Stanford University)
+Coursera (Offered by Stanford University) <br>
 
 ### Business and Data Analytics Projects
 [Group Projects and Hackathon](https://drive.google.com/drive/folders/1VP1xmoH-K28Ajsi_4yUFUG28J5NW04bw?usp=sharing) (RISE by DigitalBCG Academy, Business and Data Analytics)<br>
