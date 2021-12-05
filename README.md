@@ -1,7 +1,7 @@
 <!-- CONTACT Section Starts -->
 
 ### YEOH YEE TENG
-[LinkedIn](https://www.linkedin.com/in/yeohyeeteng/) | [GitHub](https://yeohyeeteng.github.io/YeohYeeTeng/) <br>
+[LinkedIn](https://www.linkedin.com/in/yeohyeeteng/) | [GitHub](https://yeohyeeteng.github.io/YeohYeeTeng/)
 
 <!-- CONTACT Section Ends -->
 
@@ -18,7 +18,7 @@
 I am __Yee Teng__, I specialized in creative & structured problem solving, business & data analysis, visualization, strategic planning, project management, Microsoft Excel, SQL, Python programming. I am also experienced in marketing, design, training.
 
 <!-- Add link to the sections -->
-[Experience](#experience) | [Education](#education) | [Featured](#featured) <br> 
+[Experience](#experience) | [Education](#education) | [Featured](#featured)
 
 <!-- ABOUT Section Ends -->
 
@@ -55,11 +55,11 @@ Personal Skills
 - Planning and Organization
 - Attention to Details
 - Teamwork
-- Leadership <br>
+- Leadership
 
 __UNICORN FINANCIAL SOLUTIONS PTE LTD__<br>
 FINANCIAL CONSULTANT (Plan Writing)<br>
-May 2016 to Aug 2021: 5 years 04 months <br>
+May 2016 to Aug 2021: 5 years 04 months
 
 __ERNI ASIA HOLDING PTE LTD__<br>
 MARKETING ENGINEER<br>
@@ -77,7 +77,7 @@ Jun 2012 to Apr 2016: 3 years 11 months
 __Nanyang Technological University (2008 – 2012)__<br>
 Bachelor of Engineering (Mechanical Engineering)
 - 1st Class Honours (Cumulative GPA: 4.52/5.00)
-- Dean’s List for Academic Year 2010/2011 <br>
+- Dean’s List for Academic Year 2010/2011
 
 <!-- EDUCATION Section Ends -->
 
@@ -96,12 +96,12 @@ RISE by DigitalBCG Academy
 LinkedIn Learning Path
 
 [Machine Learning](https://www.coursera.org/learn/machine-learning) (2020)<br>
-Coursera (Offered by Stanford University) <br>
+Coursera (Offered by Stanford University)
 
 ### Business and Data Analytics Projects
-[Group Projects and Hackathon](https://drive.google.com/drive/folders/1VP1xmoH-K28Ajsi_4yUFUG28J5NW04bw?usp=sharing) (RISE by DigitalBCG Academy, Business and Data Analytics)<br>
+[Group Projects and Hackathon](https://drive.google.com/drive/folders/1VP1xmoH-K28Ajsi_4yUFUG28J5NW04bw?usp=sharing) (RISE by DigitalBCG Academy, Business and Data Analytics)
 
-### Professional Articles Writing
-[Financial Article](https://www.unicorn.sg/library/is-your-savings-account-really-a-savings-account)<br>
+### Professional Article Writing
+[Financial Article](https://www.unicorn.sg/library/is-your-savings-account-really-a-savings-account)
 
 <!-- FEATURED Section Ends -->
