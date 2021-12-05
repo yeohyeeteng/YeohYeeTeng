@@ -2,6 +2,7 @@
 ### CONTACT
 
 <!-- Add your details -->
+Yeoh Yee Teng
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/yeohyeeteng/)
 <!-- CONTACT Section Ends -->
 
