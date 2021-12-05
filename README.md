@@ -80,7 +80,7 @@ Bachelor of Engineering (Mechanical Engineering)
 <!-- FEATURED Section Starts -->
 ## FEATURED
 <!-- Add your details -->
-##### Professional Certifications & Courses Attended
+#### Professional Certifications & Courses Attended
 [RISE by DigitalBCG Academy, Business and Data Analytics](https://rise.bcg.com/business-data-analytics/) (anticipated completion Jan 2022)<br>
 RISE by DigitalBCG Academy
 
