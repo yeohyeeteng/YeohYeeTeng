@@ -20,13 +20,12 @@ I am __Yee Teng__, I specialized in creative & structured problem solving, busin
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
 [Education](#education) <br>
-[Projects](#projects) <br>
 [Featured](#featured) <br> 
 
 <!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
-### EXPERIENCE
+## EXPERIENCE
 <!-- Add your details -->
 __OPEN TO WORK__<br>
 DATA ANALYST<br>
@@ -69,7 +68,7 @@ Jun 2012 to Apr 2016: 3 years 11 months
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
-### EDUCATION
+## EDUCATION
 <!-- Add your details -->
 __Nanyang Technological University (2008 – 2012)__<br>
 Bachelor of Engineering (Mechanical Engineering)
@@ -81,12 +80,12 @@ Bachelor of Engineering (Mechanical Engineering)
 <!-- FEATURED Section Starts -->
 ## FEATURED
 <!-- Add your details -->
-##### Certifications
+##### Professional Certifications & Courses Attended
 [RISE by DigitalBCG Academy, Business and Data Analytics](https://rise.bcg.com/business-data-analytics/) (anticipated completion Jan 2022)<br>
 RISE by DigitalBCG Academy
 
-Become a Data Analyst (2021)
+[Become a Data Analyst](https://www.linkedin.com/learning/paths/become-a-data-analyst) (2021)<br>
 LinkedIn Learning Path
 
-Machine Learning (2020)
+[Machine Learning](https://www.coursera.org/learn/machine-learning) (2020)<br>
 Coursera (Offered by Stanford University)
