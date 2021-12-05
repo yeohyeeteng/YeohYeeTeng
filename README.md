@@ -1,6 +1,6 @@
 <!-- CONTACT Section Starts -->
 ### YEOH YEE TENG
-[LinkedIn](https://www.linkedin.com/in/yeohyeeteng/)
+[LinkedIn](https://www.linkedin.com/in/yeohyeeteng/) | [GitHub](https://yeohyeeteng.github.io/YeohYeeTeng/)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
