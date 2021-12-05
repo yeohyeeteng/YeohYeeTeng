@@ -55,14 +55,12 @@ Personal Skills
 - Attention to Details
 - Teamwork
 - Leadership
-<br>
-<br>
-__UNICORN FINANCIAL SOLUTIONS PTE LTD__ <br>
+
+__UNICORN FINANCIAL SOLUTIONS PTE LTD__
 FINANCIAL CONSULTANT (Plan Writing)<br>
 May 2016 to Aug 2021: 5 years 04 months
-<br>
-<br>
-__ERNI ASIA HOLDING PTE LTD__ <br>
+
+__ERNI ASIA HOLDING PTE LTD__
 MARKETING ENGINEER<br>
 Jun 2012 to Apr 2016: 3 years 11 months
 
