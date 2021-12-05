@@ -82,10 +82,10 @@ Bachelor of Engineering (Mechanical Engineering)
 ## PROJECTS
 <!-- Add your details -->
 ### Business and Data Analysis
-[Group Projects and Hackathon](https://drive.google.com/drive/folders/1VP1xmoH-K28Ajsi_4yUFUG28J5NW04bw?usp=sharing)<br>
+[Group Projects and Hackathon](https://drive.google.com/drive/folders/1VP1xmoH-K28Ajsi_4yUFUG28J5NW04bw?usp=sharing)(RISE by DigitalBCG Academy, Business and Data Analytics)<br>
 
 ### Professional Articles Writing
-[Financial Blog Post](https://www.unicorn.sg/library/is-your-savings-account-really-a-savings-account)<br>
+[Financial Article](https://www.unicorn.sg/library/is-your-savings-account-really-a-savings-account)<br>
 
 <!-- PROJECTS Section Ends -->
 
