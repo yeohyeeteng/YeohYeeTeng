@@ -56,9 +56,13 @@ Personal Skills
 - Teamwork
 - Leadership
 
+
+
 __UNICORN FINANCIAL SOLUTIONS PTE LTD__<br>
 FINANCIAL CONSULTANT (Plan Writing)<br>
 May 2016 to Aug 2021: 5 years 04 months
+
+
 
 __ERNI ASIA HOLDING PTE LTD__<br>
 MARKETING ENGINEER<br>
