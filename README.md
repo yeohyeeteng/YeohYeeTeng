@@ -41,24 +41,26 @@ Technical Skills:
 - Machine Learning
 
 Business Skills
-• Business and Data Analysis
-• Visualization
-• Structured Problem Solving and Creative Solutions
-• Business Intelligence
-• Business Presentation
-• Project Management
+- Business and Data Analysis
+- Visualization
+- Structured Problem Solving and Creative Solutions
+- Business Intelligence
+- Business Presentation
+- Project Management
 
 Personal Skills
-• Communication: English, Chinese, Malay, Hokkien, Cantonese (Basic French and Korean)
-• Time Management
-• Planning and Organization
-• Attention to Details
-• Teamwork
-• Leadership
+- Communication: English, Chinese, Malay, Hokkien, Cantonese (Basic French and Korean)
+- Time Management
+- Planning and Organization
+- Attention to Details
+- Teamwork
+- Leadership
+
 
 ##### UNICORN FINANCIAL SOLUTIONS PTE LTD
 Financial Consultant (Plan Writing)<br>
 May 2016 to Aug 2021: 5 years 04 months
+
 
 ##### ERNI ASIA HOLDING PTE LTD
 Marketing Engineer<br>
