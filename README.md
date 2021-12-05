@@ -20,7 +20,6 @@ I am __Yee Teng__, I specialized in creative & structured problem solving, busin
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
 [Education](#education) <br>
-[Projects](#projects) <br> 
 [Featured](#featured) <br> 
 
 <!-- ABOUT Section Ends -->
@@ -78,17 +77,6 @@ Bachelor of Engineering (Mechanical Engineering)
 
 <!-- EDUCATION Section Ends -->
 
-<!-- PROJECTS Section Starts -->
-## PROJECTS
-<!-- Add your details -->
-### Business and Data Analysis
-[Group Projects and Hackathon](https://drive.google.com/drive/folders/1VP1xmoH-K28Ajsi_4yUFUG28J5NW04bw?usp=sharing)(RISE by DigitalBCG Academy, Business and Data Analytics)<br>
-
-### Professional Articles Writing
-[Financial Article](https://www.unicorn.sg/library/is-your-savings-account-really-a-savings-account)<br>
-
-<!-- PROJECTS Section Ends -->
-
 <!-- FEATURED Section Starts -->
 ## FEATURED
 <!-- Add your details -->
@@ -101,5 +89,11 @@ LinkedIn Learning Path
 
 [Machine Learning](https://www.coursera.org/learn/machine-learning) (2020)<br>
 Coursera (Offered by Stanford University)
+
+### Business and Data Analysis
+[Group Projects and Hackathon](https://drive.google.com/drive/folders/1VP1xmoH-K28Ajsi_4yUFUG28J5NW04bw?usp=sharing) (RISE by DigitalBCG Academy, Business and Data Analytics)<br>
+
+### Professional Articles Writing
+[Financial Article](https://www.unicorn.sg/library/is-your-savings-account-really-a-savings-account)<br>
 
 <!-- FEATURED Section Ends -->
