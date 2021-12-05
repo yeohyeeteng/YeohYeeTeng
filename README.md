@@ -55,12 +55,12 @@ Personal Skills
 - Attention to Details
 - Teamwork
 - Leadership
-
+<br>
 
 ##### UNICORN FINANCIAL SOLUTIONS PTE LTD
 Financial Consultant (Plan Writing)<br>
 May 2016 to Aug 2021: 5 years 04 months
-
+<br>
 
 ##### ERNI ASIA HOLDING PTE LTD
 Marketing Engineer<br>
