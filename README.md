@@ -1,6 +1,7 @@
 <!-- CONTACT Section Starts -->
 
 ### YEOH YEE TENG
+_Singaporean_
 [LinkedIn](https://www.linkedin.com/in/yeohyeeteng/) | [GitHub](https://yeohyeeteng.github.io/YeohYeeTeng/)
 
 <!-- CONTACT Section Ends -->
