@@ -1,7 +1,7 @@
 <!-- CONTACT Section Starts -->
 
 ### YEOH YEE TENG
-[LinkedIn](https://www.linkedin.com/in/yeohyeeteng/) | [GitHub](https://yeohyeeteng.github.io/YeohYeeTeng/)
+[LinkedIn](https://www.linkedin.com/in/yeohyeeteng/) | [GitHub](https://yeohyeeteng.github.io/yeohyeeteng/)
 
 <!-- CONTACT Section Ends -->
 
