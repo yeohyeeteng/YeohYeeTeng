@@ -1,7 +1,7 @@
 <!-- CONTACT Section Starts -->
 
 ### YEOH YEE TENG
-[LinkedIn](https://www.linkedin.com/in/yeohyeeteng/) | [GitHub](https://yeohyeeteng.github.io/yeohyeeteng/)
+[LinkedIn](https://www.linkedin.com/in/yeohyeeteng/) | [GitHub](https://yeohyeeteng.github.io/yeohyeeteng/) | [Portfolio](https://drive.google.com/drive/folders/1VP1xmoH-K28Ajsi_4yUFUG28J5NW04bw)
 
 <!-- CONTACT Section Ends -->
 
@@ -93,6 +93,9 @@ Bachelor of Engineering (Mechanical Engineering)
 RISE by DigitalBCG Academy
 
 [Become a Data Analyst](https://www.linkedin.com/learning/paths/become-a-data-analyst) (2021)<br>
+LinkedIn Learning Path
+
+[Become a Data Scientist](https://www.linkedin.com/learning/paths/become-a-data-scientist) (2021)<br>
 LinkedIn Learning Path
 
 [Machine Learning](https://www.coursera.org/learn/machine-learning) (2020)<br>
